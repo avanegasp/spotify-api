@@ -11,5 +11,5 @@ app.register_blueprint(main)
 if __name__ == "__main__":   
     app.run(debug=True)
 #Inicia el servidor web de Flask en modo de depuración, lo que 
-# facilita ver errores y reinicia automáticamente el servidor 
+# facilitaría ver errores y reinicia automáticamente el servidor 
 # cuando realizas cambios en el código. 
